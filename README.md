@@ -43,7 +43,7 @@ The module looks like this:
       }
     }
     ```
-## How to get the `stationId`
+## How to get the `stopId`
 
 You need the `stopId` for the station whose departures should be displayed.
 
