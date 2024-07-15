@@ -14,7 +14,7 @@ This means: I'm open for feature requests, pull requests, bug reports, ...
 
 The module looks like this:
 
-![Example for Piotrkowska Centrum with message at bottom](screenshot/example.png)
+![Example for Piotrkowska Centrum with message at bottom](screenshots/example.png)
 
 ## Installation
 
