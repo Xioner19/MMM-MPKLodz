@@ -1,0 +1,29 @@
+{
+  "name": "mmm-mpklodz",
+  "version": "1.0.0",
+  "description": "MagicMirror module for MPK Lodz departures",
+  "main": "MMM-MPKLodz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MagicMirror",
+    "module",
+    "public transport",
+    "Lodz",
+    "bus",
+	"travel",
+	"Poland"
+	
+  ],
+  "author": "Xioner9",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xioner19/MMM-MPKLodz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xioner19/MMM-MPKLodz/issues"
+  },
+  "homepage": "https://github.com/Xioner19/MMM-MPKLodz#readme"
+}
