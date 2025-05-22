@@ -1,0 +1,29 @@
+{
+  "name": "MMM-MPKLodz",
+  "version": "1.0.0",
+  "description": "MagicMirror² module displaying real-time public transport departures for Łódź (MPK Łódź).",
+  "author": "Xioner19",
+  "license": "MIT",
+  "main": "MMM-MPKLodz.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xioner19/MMM-MPKLodz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xioner19/MMM-MPKLodz/issues"
+  },
+  "homepage": "https://github.com/Xioner19/MMM-MPKLodz#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "xml2js": "^0.6.2"
+  },
+  "keywords": [
+    "MagicMirror",
+    "module",
+    "public transport",
+    "Lodz",
+    "bus",
+    "travel",
+    "Poland"
+  ]
+}
